@@ -9,6 +9,12 @@
 			]
 		}
 	},
+    "features": {
+        "ghcr.io/duduribeiro/devcontainer-features/neovim:1": {
+            "version": "stable"
+        }
+    },
+	"remoteUser": "node",
 	"portsAttributes": {
 		"8888": {
 			"label": "web-ui",
