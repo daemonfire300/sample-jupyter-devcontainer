@@ -1,6 +1,8 @@
 {
-	"name": "Python 3",
-	"image": "quay.io/jupyter/scipy-notebook",
+	"name": "BlahBlah",
+	"build":  {
+        "dockerfile": "Dockerfile"
+    },
 	"customizations": {
 		"vscode": {
 			"settings": {},
